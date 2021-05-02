@@ -1,0 +1,22 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Nov 2020 – present",
+			"company" : "Kinectt",
+			"description" : "Social CRM Application Startup, Kinectt is a cross-platform application built with React Native/Js & firebase."
+		},
+		{
+			"timeperiod" : "Sep 2018 – June 2019",
+			"company" : "SUPPLEMENTAL INSTRUCTION (SI) LEADER",
+			"website": "https://www.glendale.edu/",
+			"description" : "Led supplemental instruction for 10 or more students. Helped the students debug code, collaborate and team manage by guiding them to better approache in logical thinking and problem solving. "
+		},
+		{
+			"timeperiod" : "JUNE – SEPT 2016",
+			"company" : "CITY OF GLENDALE BUILDING AND SAFTEY (GYA)",
+			"website": "https://www.glendaleca.gov/government/city-departments/community-services-parks/youth-employment-services-gya-",
+			"description" : "Oversaw the operations and supervised other employees. Guided and connected customers to the appropriate individuals at the building and safety department. "
+		}
+	]
+}

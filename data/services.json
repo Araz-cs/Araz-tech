@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "code",
+			"title" : "Tutoring ",
+			"description" : "Tutoring Computer System programming : Algorithms and Data structure, Exception and process, System I/O, Virtual Memory and Dynamic Allocation, Networking, and Concurrent Programming."
+		},
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Web development(AWS)",
+			"description" : "Creating E-commerce website starting from Back-end: MySQL and SQL. For connectivity to database: Java(JDBC). At last Front-end: JavaScript, HTML/CSS, JQuery, Bootstrap. and curenntly learning React-native for mobile applications. "
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"C/C++" : "90",
+		"Java/JDBC" : "90",
+		"MySQL" : "88",
+		"Python" : "78",
+		"JavaScript" : "60",
+		"React-native" : "20"
+
+	}
+}
